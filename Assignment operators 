@@ -1,0 +1,31 @@
+//code for assignment opertos
+#include<stdio.h>
+
+int main() {
+     int a,b;
+     a=70;
+     b=67;
+     //operation for addition assignment//
+     printf("a+=b=%d\n",a+=b);
+     //operation for subtraction assignment//
+     printf("a-=b=%d\n",a-=b);
+     //operation for division assignment//
+     printf("a/=b=%d\n",a<=b);
+     //operation for multiplication assignment//
+     printf("a*=b=%d\n",a*=b);
+     //operation for modulus assignment//
+     printf("a%=b=%d\n",a%=b);
+     //operation for assignment//
+     printf("a=b=%d\n",a=b);
+     
+     }
+     
+     
+    Output:
+    a+=b=137
+    a-=b=70
+    a/=b=0
+    a*=b=4690
+    a=b=0
+    a=b=67
+    
