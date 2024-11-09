@@ -80,7 +80,7 @@ int main()
     // Print the total bill
     printf("Total Bill: ₹%d\n", bill);
 
-    printf("\nPlease collect your from the counter");
+    printf("\nPlease collect your order from the counter");
     printf("\nVisit Again");
     printf("\n\nThankyou also share your feedback on our official website");
 }
@@ -107,7 +107,7 @@ Pineapple juice
 Please enter the required quantity: 4
 Total Bill: ₹200
 
-Please collect your from the counter
+Please collect your order from the counter
 Visit Again
 
 Thankyou also share your feedback on our official website
